@@ -28,6 +28,7 @@ Data preparation and cleaning
 SQL data analysis
 KPI calculation
 Data validation
+Data model
 Power BI visualization
 Dashboard development
 
@@ -49,8 +50,8 @@ Recommendations
 
 The findings can be used to monitor healthcare KPIs, identify changes in patient activity, track costs, and support operational planning.
 
-Author
-Oluwadamilola Oluwatosin
+Author 
+Adejumo Damilola 
 
 Data Analyst | SQL | Power BI | Python | Excel
 

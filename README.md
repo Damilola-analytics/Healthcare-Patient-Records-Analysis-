@@ -44,7 +44,7 @@ Dashboard development
 
 SQL/healthcare_analysis.sql — SQL queries used for the analysis
 PowerBI/healthcare_dashboard.pbix — Power BI dashboard
-images/healthcare_dashboard.jpg — Dashboard preview
+images/healthcare-patient-ashboard.png — Dashboard preview
 
 ## Key Insights
 

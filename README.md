@@ -38,7 +38,7 @@ Dashboard development
 
 ### Healthcare Patient Records Analysis Dashboard
 
-![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
+![Healthcare-patient-dashboard](healthcare-patient-dashboard.png)
 
 ## Project Files
 

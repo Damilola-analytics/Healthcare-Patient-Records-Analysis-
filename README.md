@@ -34,6 +34,12 @@ Dashboard development
 
 ## Dashboard
 
+
+
+### Healthcare Patient Records Analysis Dashboard
+
+![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
+
 ## Project Files
 
 SQL/healthcare_analysis.sql — SQL queries used for the analysis

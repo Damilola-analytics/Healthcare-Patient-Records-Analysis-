@@ -93,8 +93,7 @@ These metrics were used to understand overall healthcare activity and cost perfo
 
 ## Data Model
 The data model was designed to establish relationships between the healthcare datasets and support efficient Power BI analysis.
-![Healthcare Data Model](healthcare-patient-data-
-model.png)
+![Healthcare Data Model](healthcare-patient-data-model.png)
 
 ## Power BI Dashboard
 The Power BI dashboard provides an interactive overview of healthcare activity, patient trends, and healthcare costs.

@@ -1,61 +1,78 @@
-# Healthcare Patient Records Analysis 
+#  Healthcare Patient Records Analysis
 
-## Project Overview 
-This project analyzes healthcare data to understand patient demographics, encounters, healthcare costs, and key performance indicators.
+##  Project Overview
 
-The analysis combines SQL for data querying and transformation with Power BI for interactive visualization and dashboard reporting.
+This project analyzes healthcare patient records to understand patient demographics, encounter patterns, healthcare costs, and key performance indicators.
 
-## Tools Used
-SQL Server Management Studio (SSMS)
-SQL
-Power BI
-Excel
-Data Visualization
+The analysis combines SQL for data querying and transformation with Power BI for interactive data visualization and dashboard reporting.
 
-## Business Objectives
+---
 
-The analysis focuses on understanding:
-Patient trends and demographics
-Encounter patterns over time
-Healthcare costs
-Treatment and encounter metrics
-Key performance indicators (KPIs)
+##  Business Objectives
 
-## Project Workflow
-Data preparation and cleaning
-SQL data analysis
-KPI calculation
-Data validation
-Data model
-Power BI visualization
-Dashboard development
+The analysis focuses on answering key healthcare business questions:
 
-## Insights and recommendations
+- How many patients and healthcare encounters are recorded?
+- How do patient encounters change over time?
+- What are the major healthcare costs associated with patient care?
+- Which patient demographics contribute most to healthcare activity?
+- What trends can be identified from the healthcare records?
+- What KPIs can help support healthcare operational decision-making?
 
-## Dashboard
+---
 
+##  Dataset
 
+The dataset contains healthcare patient and encounter records, including information related to:
 
-### Healthcare Patient Records Analysis Dashboard
+- Patient demographics
+- Patient encounters
+- Encounter dates
+- Healthcare costs
+- Base encounter costs
+- Claim costs
+- Patient characteristics
+- Healthcare service activity
 
-![Healthcare-patient-dashboard](healthcare-patient-dashboard.png)
+---
 
-## Project Files
+##  Data Preparation & Cleaning
 
-SQL/healthcare_analysis.sql — SQL queries used for the analysis
-PowerBI/healthcare_dashboard.pbix — Power BI dashboard
-images/healthcare-patient-ashboard.png — Dashboard preview
+The data preparation process included:
 
-## Key Insights
+- Inspecting the raw healthcare data
+- Checking for missing values
+- Checking for duplicate records
+- Reviewing data types
+- Validating date fields
+- Preparing data for SQL analysis
+- Creating analysis-ready datasets
+- Validating calculated metrics before visualization
 
-The analysis provides insights into patient activity, encounter trends, and healthcare costs that can support better monitoring and data-driven decision-making.
+---
 
-## Recommendations
+## SQL Analysis
 
-The findings can be used to monitor healthcare KPIs, identify changes in patient activity, track costs, and support operational planning.
+SQL Server Management Studio (SSMS) was used to query and analyze the healthcare records.
 
-## Author 
-Adejumo Damilola 
+The SQL analysis focused on:
 
-Data Analyst | SQL | Power BI | Python | Excel
+- Patient counts
+- Encounter counts
+- Healthcare costs
+- Cost analysis
+- Patient activity
+- Encounter trends
+- Date-based analysis
+- KPI calculations
+- Aggregation and grouping of healthcare records
 
+### Example SQL Analysis Areas
+
+```sql
+-- Patient and encounter analysis
+-- Cost analysis
+-- Patient activity by year
+-- Healthcare KPI calculations
+-- Aggregated healthcare metrics
+```

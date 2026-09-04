@@ -76,3 +76,101 @@ The SQL analysis focused on:
 -- Healthcare KPI calculations
 -- Aggregated healthcare metrics
 ```
+
+## Key Performance Metrics
+The analysis examined important healthcare KPIs including:
+Total Patients
+Total Encounters
+Total Claim Cost
+Total Base Encounter Cost
+Average Treatment Cost per Patient
+Patient Activity Trends
+Encounter Trends
+These metrics were used to understand overall healthcare activity and cost performance.
+
+## Data Model
+The data model was designed to establish relationships between the healthcare datasets and support efficient Power BI analysis.
+�
+## Power BI Dashboard
+The Power BI dashboard provides an interactive overview of healthcare activity, patient trends, and healthcare costs.
+Healthcare Patient Records Dashboard
+�
+The dashboard allows users to explore healthcare KPIs and identify trends across different dimensions of the data.
+
+## Key Findings
+The analysis provides insights into:
+Patient and encounter activity
+Changes in healthcare activity over time
+Healthcare cost patterns
+Patient demographic trends
+Key performance indicators
+Areas that may require further operational monitoring
+
+## Business Recommendations
+Expand geriatric and chronic disease management services.
+Increase staffing and resources for assessment and screening services.
+Prioritize investment in high-value procedures such as Electrical Cardioversion.
+Use Power BI dashboards to continuously track treatment costs and financial performance.
+Implement personalized care plans and monitor patient lifetime value.
+
+## Analysis Workflow
+Raw Healthcare Data
+        ↓
+Data Cleaning & Validation
+        ↓
+SQL Data Analysis
+        ↓
+KPI Calculation
+        ↓
+Data Modeling
+        ↓
+Power BI Visualization
+        ↓
+Insights & Recommendations
+
+## Tools & Technologies
+SQL
+SQL Server Management Studio (SSMS)
+Power BI
+DAX
+Excel
+Data Cleaning
+Data Modeling
+Data Visualization
+Exploratory Data Analysis
+
+## Project Files
+File
+Description
+HospitalPatientRecords-new-1.csv
+Healthcare patient records dataset
+HospitalPatientRecords-1.sql
+SQL queries used for the analysis
+healthcare-patient-dashboard.png
+Power BI dashboard preview
+healthcare_patient_data_model.png
+Healthcare data model
+.pbix
+Power BI dashboard project
+
+## Skills Demonstrated
+Data Cleaning
+SQL Querying
+Data Transformation
+Exploratory Data Analysis
+KPI Development
+Data Modeling
+Power BI Dashboard Development
+Data Visualization
+Business Analysis
+Insight Generation
+Data-Driven Recommendations
+
+## Conclusion
+This project demonstrates how healthcare data can be transformed from raw patient records into meaningful business insights using SQL and Power BI.
+The analysis provides a foundation for monitoring patient activity, healthcare encounters, costs, and performance indicators to support better operational decision-making.
+
+## Author
+Adejumo Damilola 
+Data Analyst | SQL | Power BI | Python | Excel
+LinkedIn⁠�

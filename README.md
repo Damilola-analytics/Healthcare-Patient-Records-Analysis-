@@ -8,6 +8,9 @@ The analysis combines SQL for data querying and transformation with Power BI for
 
 ---
 
+## Problem Statement 
+The hospital lacks clear visibility into patient demographics, treatment demand, healthcare costs, and revenue performance. As a result, management cannot efficiently allocate resources, control costs, or make informed strategic decisions.
+
 ##  Business Objectives
 
 The analysis focuses on answering key healthcare business questions:
@@ -90,11 +93,11 @@ These metrics were used to understand overall healthcare activity and cost perfo
 
 ## Data Model
 The data model was designed to establish relationships between the healthcare datasets and support efficient Power BI analysis.
-�
+
 ## Power BI Dashboard
 The Power BI dashboard provides an interactive overview of healthcare activity, patient trends, and healthcare costs.
 Healthcare Patient Records Dashboard
-�
+
 The dashboard allows users to explore healthcare KPIs and identify trends across different dimensions of the data.
 
 ## Key Findings
@@ -172,5 +175,5 @@ The analysis provides a foundation for monitoring patient activity, healthcare e
 
 ## Author
 Adejumo Damilola 
+
 Data Analyst | SQL | Power BI | Python | Excel
-LinkedIn⁠�
